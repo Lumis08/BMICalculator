@@ -37,6 +37,7 @@
         android:layout_marginLeft="16dp"
         android:ems="10"
         android:inputType="numberDecimal"
+        android:hint="@string/expHeight"
         app:layout_constraintBottom_toBottomOf="@+id/textViewHeightTitle"
         app:layout_constraintStart_toEndOf="@+id/textViewHeightTitle"
         app:layout_constraintTop_toTopOf="@+id/textViewHeightTitle" />
@@ -49,6 +50,7 @@
         android:layout_marginLeft="16dp"
         android:ems="10"
         android:inputType="numberDecimal"
+        android:hint="@string/expWeight"
         app:layout_constraintBottom_toBottomOf="@+id/textViewWeightTitle"
         app:layout_constraintStart_toEndOf="@+id/textViewWeightTitle"
         app:layout_constraintTop_toTopOf="@+id/textViewWeightTitle" />

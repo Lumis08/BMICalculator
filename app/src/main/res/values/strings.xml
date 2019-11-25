@@ -2,6 +2,8 @@
     <string name="app_name">BMI Calculator</string>
     <string name="weight">Enter Weight (kg):</string>
     <string name="height">Enter Height (cm):</string>
+    <string name="expWeight">70</string>
+    <string name="expHeight">170</string>
     <string name="picture">BMI Result Picture</string>
     <string name="bmi">BMI : 00.00 (Null)</string>
     <string name="under">Underweight</string>
